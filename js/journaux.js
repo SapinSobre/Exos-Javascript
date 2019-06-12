@@ -10,4 +10,4 @@ for(var i = 0; i < journaux.length; i++){
     puce.appendChild(link);
     liste.appendChild(puce);
 }
-contenu.appendChild(liste);// TODO : ajouter la liste des journaux sur la page, dans la div "contenu"
+contenu.appendChild(liste); 
